@@ -1,6 +1,3 @@
-# memory-forensics-case-studies
-A collection of memory forensics case studies performed using Volatility. This repository contains malware investigations, rootkit analysis, process analysis, network artifact analysis and findings from different memory samples.
-
 # Memory Forensics Case Studies
 
 This repository contains memory forensic investigations performed using Volatility 2 and Volatility 3.
